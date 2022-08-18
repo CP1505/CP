@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-RCIIT71" failures="0" tests="1" name="com.prasadchavan.qa.TestCases.TwitterLoginTestCase" time="16.316" errors="0" timestamp="10 Aug 2022 08:12:55 GMT">
+  <testcase classname="com.prasadchavan.qa.TestCases.TwitterLoginTestCase" name="TwitterRegisterTesting" time="3.764"/>
+</testsuite>
